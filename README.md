@@ -1,366 +1,165 @@
-# Hi there, I'm Asin Fathima S 👋✨
+<div align="center">
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0f403d&lines=I'm+a+Computer+Applications+Graduate;I'm+a+Full+Stack+Developer+in+Training;I'm+interested+in+AI+and+IoT;I'm+an+Embedded+Systems+Enthusiast;I+love+building+real-world+projects)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ASIN%20FATHIMA%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20Trainee%20%7C%20Python%20%7C%20IoT%20Enthusiast&descAlignY=58&descSize=18"/>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+web+and+IoT+projects;Learning+Full+Stack+Development;Exploring+AI+with+Python;Turning+ideas+into+real+projects" alt="Typing SVG" />
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
-</p>
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/EDUCATION-BCA%202023--2026-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%26%20IoT-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED%20IN-Tirupur%2C%20India-4C1D95?style=for-the-badge"/>
 
-## 👩🏻‍💻 About Me
+<br/><br/>
 
-🎓 **BCA Graduate** from St. Joseph's College for Women, Tirupur
+<a 
+href = "https://www.linkedin.com/in/asin-fathima"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="mailto:asinfathima2705@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://github.com/ASINFATHIMA-CODES"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-💻 Interested in **Full Stack Development, AI, IoT & Embedded Systems**
-
-🌱 Currently learning **MERN Stack, AWS, Docker, Kubernetes & DevOps**
-
-🧠 Passionate about **Problem Solving, Software Development and Technology**
-
-🔧 I love building practical projects that solve real-world problems.
-
-📚 Always learning, experimenting and improving my technical skills.
+</div>
 
 ---
 
-## 🚀 Currently Learning
+## 👩‍💻 About Me
 
-- 🌐 Full Stack Web Development
-- ⚛️ React.js
-- 🟢 Node.js & Express.js
-- 🗄️ MySQL & SQL
-- ☁️ AWS
-- 🐳 Docker
-- ☸️ Kubernetes
-- ⚙️ DevOps
-- 🤖 AI with Python
-- 🔌 IoT & Embedded Systems
+```yaml
+name: Asin Fathima S
+education: Bachelor of Computer Applications (BCA), St. Joseph's College for Women, Tirupur
+role: Full Stack Developer Trainee
+focus:
+  - Python & AI
+  - Web Development (MERN Stack)
+  - IoT & Embedded Systems
+currently_learning:
+  - React.js
+  - Node.js & Express.js
+  - AWS & Docker
+mindset: Learn → Build → Share → Improve
+```
 
----
-
-# 🛠️ My Skills & Tech Stack
-
-## 👩🏻‍💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+Enthusiastic BCA graduate with a strong foundation in Python, AI, Web Development, IoT and Embedded Systems. I enjoy building real projects, from C command-line tools to sensor-based IoT safety systems and Salesforce CRM apps. I also presented a research paper, "How APIs Work in Today's World", at an International Conference.
 
 ---
 
-## 🌐 Web Development
+## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css"/> </p>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,html,css"/> </p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Backend & Database
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mysql"/> </p>
 
-![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/Express.js-Learning-000000?style=for-the-badge&logo=express&logoColor=white)
-
----
-
-## 🗄️ Database
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,arduino,aws,docker"/> </p>
 
 ---
 
-## 🔌 IoT & Embedded Systems
+## 🚀 My Learning Journey
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+```text
+BCA → C & Python → Salesforce CRM → IoT & Embedded Systems → AI with Python → Full Stack (MERN) → Software Developer
+```
 
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![Blynk](https://img.shields.io/badge/Blynk-29A9EA?style=for-the-badge&logo=blynk&logoColor=white)
-
-**Areas:** IoT Development • Embedded Systems • Sensor Interfacing • Hardware Integration • Wi-Fi Communication
-
----
-
-## ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### Currently Exploring
+- React.js, Node.js & Express.js
+- REST APIs & MySQL
+- AWS, Docker & Kubernetes
+- DevOps fundamentals
 
 ---
 
-## 🔧 Tools & Platforms
+## 📌 Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🔥 Project 01 — Elite Exhaust Care (LPG Leakage & Smoke Detection)
+IoT-based smart kitchen safety system that monitors LPG leakage, fire, smoke and temperature, and alerts users with a buzzer and cloud notifications over Wi-Fi.
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+**Tech Stack:**
+`ESP8266` `Embedded C` `MicroPython` `MQ-2 Sensor` `Blynk` `Firebase`
 
 ---
 
-# 🚀 Featured Projects
+### 🖼️ Project 02 — Image Steganography (LSB Encoding & Decoding)
+Application to hide and retrieve secret text messages inside BMP images using the Least Significant Bit technique, without hurting the image quality.
 
-## 🎵 MP3 Tag Reader & Editor
-
-Developed a command-line MP3 Tag Reader and Editor using **Advanced C Programming** to read, display and modify ID3 metadata.
-
-**Technologies:**
-
-`C` `Structures` `Pointers` `File Handling` `Bitwise Operations` `Binary File Handling`
+**Tech Stack:**
+`C` `File Handling` `Bitwise Operations` `Pointers` `BMP Format`
 
 ---
 
-## 🔐 Image Steganography Using LSB
+### 🏠 Project 03 — Lease Management System (Salesforce CRM)
+Salesforce app to manage properties, tenants, leases and payments, with automated emails and workflows.
 
-Built an image steganography application to hide and retrieve text messages inside BMP images using **Least Significant Bit (LSB) Encoding**.
-
-**Technologies:**
-
-`C` `File Handling` `Pointers` `Structures` `Bitwise Operations` `BMP`
+**Tech Stack:**
+`Salesforce` `Apex` `SOQL` `Flow` `Apex Triggers` `Scheduled Apex`
 
 ---
 
-## 📒 Address Book Management System
-
-Built a command-line Address Book Management System with features to:
-
-- Add contacts
-- Search contacts
-- Edit contacts
-- Delete contacts
-- Display contacts
-- Store contacts permanently using file handling
-
-**Technologies:**
-
-`C` `Structures` `File Handling` `Pointers` `String Handling`
+### More Projects
+- 🎵 MP3 Tag Reader and Editor (C)
+- 📒 Address Book Management System (C)
+- 🚨 Laser Beam Security Grid (IoT)
+- 🌱 Automatic Irrigation System (IoT)
+- 💎 CRM Jewel Management System (Salesforce)
+- 🛒 E-Commerce API Development (Python, REST)
 
 ---
 
-## 🔥 ELITE EXHAUST CARE
+## 🎯 Current Focus
 
-### LPG Leakage & Smoke Detection Safety System
-
-Designed an IoT-based Smart Kitchen Safety System to monitor:
-
-- LPG gas leakage
-- Fire
-- Smoke
-- Abnormal temperature
-
-The system provides real-time alerts using sensors, buzzer and cloud connectivity.
-
-**Technologies:**
-
-`ESP8266` `Embedded C` `MicroPython` `MQ-2 Gas Sensor` `Flame Sensor` `Temperature Sensor` `Blynk` `Firebase`
-
----
-
-## 🔦 Laser Beam Security Grid
-
-Designed an IoT-based security system for real-time intrusion detection using a laser transmitter and LDR sensor.
-
-**Technologies:**
-
-`NodeMCU` `Arduino IDE` `LDR Sensor` `Laser Transmitter` `Buzzer` `Wi-Fi`
+```yaml
+learning:
+  - MERN Stack
+  - Cloud & DevOps
+building:
+  - Full stack web applications
+  - Portfolio projects
+exploring:
+  - AI with Python
+  - REST API design
+goal:
+  - Entry-level Software Developer role
+```
 
 ---
 
-## 🌱 Automatic Irrigation System
+## 🌐 GitHub
 
-Developed an IoT-based Automatic Irrigation System that controls a water pump based on:
+<div align="center">
 
-- Soil moisture
-- Rain conditions
+<a href="https://github.com/ASINFATHIMA-CODES"> <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-**Technologies:**
+<br/><br/>
 
-`NodeMCU` `Soil Moisture Sensor` `Rain Sensor` `Relay Module` `Water Pump` `Blynk`
+<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
 
----
-
-## 💎 CRM Jewel Management System
-
-Developed a Salesforce CRM application to manage customer information and sales records.
-
-Created reports and dashboards for business analysis and data visualization.
-
-**Technologies:**
-
-`Salesforce CRM` `Reports` `Dashboards` `Data Management`
+</div>
 
 ---
 
-## 🏠 Lease Management System
+## 🤝 Connect With Me
 
-Developed a Salesforce-based Lease Management System for:
+<div align="center">
 
-- Property management
-- Tenant management
-- Lease agreements
-- Payment tracking
-- Automated communication
+<a href="https://www.linkedin.com/in/asin-fathima <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="mailto:asinfathima2705@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://github.com/ASINFATHIMA-CODES"> <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-**Technologies:**
-
-`Salesforce CRM` `Apex` `SOQL` `Lightning App Builder` `Salesforce Flow` `Apex Triggers`
-
----
-
-## 🛒 E-Commerce API Development
-
-Developed backend APIs for an e-commerce platform supporting product management and backend operations.
-
-**Technologies:**
-
-`Python` `REST API` `JSON` `HTTP Methods` `Backend Development`
-
----
-
-# 🎯 Core Competencies
-
-- 🧩 Problem Solving
-- 🔍 Analytical Thinking
-- 💻 Software Development
-- 🔌 IoT & Embedded Systems
-- 🐞 Software Testing & Debugging
-- 🤝 Team Collaboration
-- 🗣️ Communication
-- ⏱️ Time Management
-- 📚 Continuous Learning
-
----
-
-# 🎓 Education
-
-### Bachelor of Computer Applications — BCA
-
-**St. Joseph's College for Women, Tirupur**
-
-Bharathiar University
-
-**2023 – 2026**
-
----
-
-# 💼 Internship & Training
-
-## Full Stack Development Trainee
-
-**Noble Software Solutions, Tirupur**
-
-📅 May 2026 – Present
-
-Learning and working with:
-
-`HTML` `CSS` `JavaScript` `React.js` `Node.js` `Express.js` `MySQL` `JSON` `REST APIs` `Git`
-
----
-
-## AI with Python
-
-**ATS Techno Soft, Coimbatore**
-
-📅 May 2025 – June 2025
-
-Gained practical exposure to:
-
-- Python Programming
-- Artificial Intelligence
-- AI Concepts
-- Problem Solving
-- AI-based Solutions
-
----
-
-# 🏆 Achievement
-
-📄 Authored and presented a research paper titled:
-
-### **"How APIs Work in Today's World"**
-
-Presented at an **International Conference at A.V.P. College, Tirupur**.
-
----
-
-# 🌍 Languages
-
-- 🇬🇧 English
-- 🇮🇳 Tamil
-- 🇮🇳 Hindi — Speaking
-- 🇮🇳 Urdu — Speaking
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="mailto:asinfathima2705@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### ✨ Keep Building. Keep Learning. Keep Growing.
 
-### **Learn • Build • Explore • Improve 🚀**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time;Keep+Learning" alt="Footer Animation"/>
 
-⭐ Feel free to explore my repositories and projects!
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
